@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name         Queiroz.js
-// @version      3.9.63
-// @description  JavaScript Extension for Dimep Kairos
-// @author       Vinícius M. Knob <knob.vinicius@gmail.com>
-// @source       https://github.com/viniciusknob/queiroz.js
+// @name         New Userscript
+// @version      2024-09-10
+// @description  try to take over the world!
+// @source       https://github.com/iShouldz/queiroz.js
+// @author       You
 // @match        https://www.dimepkairos.com.br/*/Ponto/UserProfilePonto/*
 // @match        https://www.dimepkairos.com.br/*/PedidosJustificativas/Index/*
-// @require      https://raw.githubusercontent.com/viniciusknob/queiroz.js/main/dist/queiroz.min.js
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
+// @require      https://raw.githubusercontent.com/iShouldz/queiroz.js/main/dist/queiroz.min.js
 // @grant        none
 // ==/UserScript==
