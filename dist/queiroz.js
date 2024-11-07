@@ -1342,7 +1342,7 @@
                         `09:${(10 + r1).padStart(2)}`,
                         `${h}:${m.padStart(2)}`,
                         `13:${r3.padStart(2)}`,
-                        `18:${15 + r1 - r2 + r3}`
+                        `18:${(15 + r1 - r2 + r3).padStart(2)}`
                     ];
 
                     eDay.querySelectorAll('.LastSlot'); // last box to insert time (only for first time)
