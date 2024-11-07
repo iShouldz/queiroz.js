@@ -1339,7 +1339,7 @@
                     }
 
                     let times = [
-                        `09:${(15 + r1).padStart(2)}`,
+                        `09:${(5 + r1).padStart(2)}`,
                         `${h}:${m.padStart(2)}`,
                         `13:${r3.padStart(2)}`,
                         `18:${10 + r1 - r2 + r3}`
