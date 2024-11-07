@@ -1339,10 +1339,10 @@
                     }
 
                     let times = [
-                        `09:${(25 + r1).padStart(2)}`,
+                        `09:${(00 + r1).padStart(2)}`,
                         `${h}:${m.padStart(2)}`,
                         `13:${r3.padStart(2)}`,
-                        `18:${30 + r1 - r2 + r3}`
+                        `18:${00 + r1 - r2 + r3}`
                     ];
 
                     eDay.querySelectorAll('.LastSlot'); // last box to insert time (only for first time)
